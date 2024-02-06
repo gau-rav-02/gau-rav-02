@@ -18,4 +18,9 @@
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gau-rav-02&show_icons=true&locale=en&layout=compact" alt="gau-rav-02" /></p>
+![gau-rav-02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gau-rav-02&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+![gau-rav-02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gau-rav-02&theme=tokyonight&hide_border=false)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gau-rav-02&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
